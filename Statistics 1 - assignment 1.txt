@@ -1,0 +1,28 @@
+You survey households in your area to find the average rent they are paying. Find the
+standard deviation from the following data:
+$1550, $1700, $900, $850, $1000, $950
+
+850$, 900$, 950$, 1000$, 1550$, 1700$
+
+mean = (1550 + 1700 +900 + 850 +1000 + 950)/6 = 1158.3
+x1: 900 - 1158.3 = -258.33
+x2: 850 - 1158.3 = -308.33
+x3: 950 - 1158.3 = -208.33
+x4: 1000 - 1158.3 = -158.33
+x5: 1550 -1158.3 = 391.67
+x6: 1700 - 1158.3 = 541.67
+
+Square of x1: 66734.3889
+Square of x2: 95067.3889
+Square of x3: 43401.3889
+Square of x4: 25068.3889
+Square of x5: 153405.3889
+Square of x6: 293406.3889
+
+
+variance = 135416.6668
+Standard deviation = 367.99
+
+
+
+
